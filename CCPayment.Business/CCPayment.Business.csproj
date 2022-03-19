@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CCPayment.Data\CCPayment.Data.csproj" />
+    <ProjectReference Include="..\CCPayment.Shared\CCPayment.Shared.csproj" />
+    <ProjectReference Include="..\CCPayment.POS\CCPayment.POS.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Dtos\" />
+    <None Remove="Services\" />
+    <None Remove="AutoMapper" />
+    <None Remove="FluentValidation.AspNetCore" />
+    <None Remove="Validators\" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Services\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.4.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+</Project>

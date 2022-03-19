@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Provider\" />
+    <None Remove="Response\" />
+    <None Remove="Request\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Providers\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Requests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CCPayment.Shared\CCPayment.Shared.csproj" />
+  </ItemGroup>
+</Project>

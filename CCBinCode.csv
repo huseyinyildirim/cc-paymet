@@ -1,0 +1,929 @@
+BinCode,BankCode,BankName,CardType,CardTypeId, Organization,OrganizationId,IsCommercialCard,IsSupportInstallment,IsActive
+404591,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+407814,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+413226,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+434528,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+434529,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+439561,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+444676,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+444677,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+444678,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+447504,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+454671,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+511885,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+487149,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+487148,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+487147,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,true,false,true
+487146,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+482465,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+476619,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+469884,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,true,false,true
+460952,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,VISA,1,false,false,true
+454674,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+454673,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,true,false,true
+454672,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,VISA,1,false,false,true
+527682,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+527737,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+528208,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+530905,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+531102,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+533154,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+534981,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+535735,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+537470,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+540130,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540134,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+542374,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+542941,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+546957,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+547287,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+549449,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+650083,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,TROY,3,false,false,true
+650268,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,TROY,3,false,false,true
+650273,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,TROY,3,false,false,true
+650274,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,TROY,3,false,false,true
+676123,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,TROY,3,false,false,true
+676124,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979217,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979280,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,TROY,3,false,false,true
+516932,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+525329,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+512440,10,T.C.ZİRAAT BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+523529,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+513662,10,T.C.ZİRAAT BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+537500,12,T.HALK BANKASI A.Ş.,D,2,MASTER,2,true,false,true
+543081,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+552879,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+639001,12,T.HALK BANKASI A.Ş.,D,2,TROY,3,false,false,true
+676258,12,T.HALK BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979210,12,T.HALK BANKASI A.Ş.,C,1,TROY,3,false,false,true
+979212,12,T.HALK BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979238,12,T.HALK BANKASI A.Ş.,D,2,TROY,3,false,false,true
+526290,12,T.HALK BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+401049,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,false,false,true
+415514,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,false,false,true
+415515,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,false,false,true
+416607,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,false,false,true
+421030,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,true,false,true
+979245,12,T.HALK BANKASI A.Ş.,C,1,TROY,3,false,false,true
+979244,12,T.HALK BANKASI A.Ş.,C,1,TROY,3,false,false,true
+423480,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,false,false,true
+447505,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,false,false,true
+451454,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,false,false,true
+456944,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,true,false,true
+466260,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,false,false,true
+478551,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,true,false,true
+492094,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492095,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,false,false,true
+498852,12,T.HALK BANKASI A.Ş.,C,1,VISA,1,true,false,true
+499821,12,T.HALK BANKASI A.Ş.,D,2,VISA,1,false,false,true
+510056,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+521378,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+526289,12,T.HALK BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+527284,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+535241,12,T.HALK BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+536503,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540435,12,T.HALK BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+415792,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+416757,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+423478,15,T.VAKIFLAR BANKASI T.A.O.,D,2,VISA,1,false,false,true
+428945,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,true,false,true
+434530,15,T.VAKIFLAR BANKASI T.A.O.,D,2,VISA,1,true,false,true
+434724,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+442671,15,T.VAKIFLAR BANKASI T.A.O.,D,2,VISA,1,false,false,true
+459252,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,true,false,true
+479909,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+483612,15,T.VAKIFLAR BANKASI T.A.O.,D,2,VISA,1,false,false,true
+491005,15,T.VAKIFLAR BANKASI T.A.O.,D,2,VISA,1,false,false,true
+493840,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+493841,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+493846,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+520017,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+522441,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,true,false,true
+531369,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+535576,15,T.VAKIFLAR BANKASI T.A.O.,D,2,MASTER,2,false,false,true
+535775,15,T.VAKIFLAR BANKASI T.A.O.,D,2,MASTER,2,false,false,true
+540045,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+540046,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+542119,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+542798,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+979256,15,T.VAKIFLAR BANKASI T.A.O.,D,2,TROY,3,false,false,true
+979209,15,T.VAKIFLAR BANKASI T.A.O.,D,2,TROY,3,false,false,true
+650170,15,T.VAKIFLAR BANKASI T.A.O.,C,1,TROY,3,false,false,true
+650052,15,T.VAKIFLAR BANKASI T.A.O.,D,2,TROY,3,false,false,true
+589311,15,T.VAKIFLAR BANKASI T.A.O.,D,2,MASTER,2,false,false,true
+555467,15,T.VAKIFLAR BANKASI T.A.O.,D,2,MASTER,2,false,false,true
+554548,15,T.VAKIFLAR BANKASI T.A.O.,D,2,MASTER,2,false,false,true
+552101,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+547244,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,true,false,true
+542804,15,T.VAKIFLAR BANKASI T.A.O.,C,1,MASTER,2,false,false,true
+537504,15,T.VAKIFLAR BANKASI T.A.O.,D,2,MASTER,2,true,false,true
+409084,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+402940,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+411724,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+411942,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+411943,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+411944,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+411979,15,T.VAKIFLAR BANKASI T.A.O.,C,1,VISA,1,false,false,true
+497022,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+489495,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+489494,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479227,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+469188,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+459026,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+455645,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+450918,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+447503,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+979264,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979223,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+676578,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+676406,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+606329,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+553090,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+552207,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+550449,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+549998,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+547985,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+545148,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+545124,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+537537,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+542259,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+535217,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+440293,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+440273,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+440247,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+439845,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+438040,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+427707,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+427308,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+416563,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+416350,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+413528,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+406015,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+404350,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+404315,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+402459,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+402458,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+402142,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,true,false,true
+440274,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+440294,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,true,false,true
+534538,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+440295,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+532581,32,TÜRK EKONOMİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+531531,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+530853,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+528926,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+528920,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+525314,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+524840,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+524839,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+524346,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+519780,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+512803,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+512753,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+510221,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+510139,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+510138,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+489496,32,TÜRK EKONOMİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+432071,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+516840,46,AKBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+535280,46,AKBANK T.A.Ş.,D,2,MASTER,2,true,false,true
+535449,46,AKBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+550383,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+553056,46,AKBANK T.A.Ş.,C,1,MASTER,2,true,false,true
+557113,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+557829,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+589004,46,AKBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+979206,46,AKBANK T.A.Ş.,C,1,TROY,3,false,false,true
+534253,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+979207,46,AKBANK T.A.Ş.,C,1,TROY,3,true,false,true
+979208,46,AKBANK T.A.Ş.,D,2,TROY,3,false,false,true
+516841,46,AKBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+516643,46,AKBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+512754,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+493837,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+479681,46,AKBANK T.A.Ş.,D,2,VISA,1,false,false,true
+479680,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+474854,46,AKBANK T.A.Ş.,D,2,VISA,1,false,false,true
+474853,46,AKBANK T.A.Ş.,D,2,VISA,1,false,false,true
+435509,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+435508,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+432072,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+520932,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+425669,46,AKBANK T.A.Ş.,C,1,VISA,1,true,false,true
+413252,46,AKBANK T.A.Ş.,C,1,VISA,1,false,false,true
+524347,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+521942,46,AKBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+521807,46,AKBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+552608,46,AKBANK T.A.Ş.,C,1,MASTER,2,true,false,true
+552609,46,AKBANK T.A.Ş.,C,1,MASTER,2,true,false,true
+521394,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+525404,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+530866,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+547311,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,true,false,true
+549208,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+549394,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,false,false,true
+589713,59,ŞEKERBANK T.A.Ş.,D,2,MASTER,2,false,false,true
+650175,59,ŞEKERBANK T.A.Ş.,C,1,TROY,3,false,false,true
+676832,59,ŞEKERBANK T.A.Ş.,D,2,TROY,3,false,false,true
+979211,59,ŞEKERBANK T.A.Ş.,D,2,TROY,3,false,false,true
+979268,59,ŞEKERBANK T.A.Ş.,D,2,TROY,3,false,false,true
+411156,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,false,false,true
+411158,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,false,false,true
+411159,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,true,false,true
+411160,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,false,false,true
+421086,59,ŞEKERBANK T.A.Ş.,D,2,VISA,1,false,false,true
+423833,59,ŞEKERBANK T.A.Ş.,D,2,VISA,1,false,false,true
+519753,59,ŞEKERBANK T.A.Ş.,C,1,MASTER,2,true,false,true
+494064,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,false,false,true
+459068,59,ŞEKERBANK T.A.Ş.,D,2,VISA,1,false,false,true
+489401,59,ŞEKERBANK T.A.Ş.,D,2,VISA,1,true,false,true
+411157,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,false,false,true
+516846,59,ŞEKERBANK T.A.Ş.,D,2,MASTER,2,true,false,true
+403836,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,true,false,true
+409622,59,ŞEKERBANK T.A.Ş.,C,1,VISA,1,false,false,true
+520988,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+521824,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+521825,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+522204,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+524659,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+526955,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+528939,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+528956,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+533169,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+534261,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+535429,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+535488,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,true,false,true
+537829,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+538121,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+538124,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+538139,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+538196,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540036,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540037,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+540118,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+517042,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+517041,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+517040,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+516961,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+432954,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+448472,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+462274,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+467293,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+467294,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+467295,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+474151,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+474215,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479682,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,true,false,true
+479660,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+482489,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+482491,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+487074,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+487075,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+489455,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+489478,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479661,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+622403,62,T.GARANTİ BANKASI A.Ş.,C,1,TROY,3,true,false,true
+542030,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+541865,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540709,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540669,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+377137,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+377596,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+377597,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+377598,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+377599,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+401738,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+403280,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+403666,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+404308,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+405051,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+405090,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+406665,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+406666,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+409219,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+410141,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+413836,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+420557,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+426886,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+426887,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+426888,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+426889,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+427314,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+427315,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+428220,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+428221,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+375631,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+432154,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+375630,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+375628,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+374421,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+374422,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+374423,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+374424,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+374425,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+374426,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+374427,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+374428,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+375622,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+375623,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+375624,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+375625,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+375626,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,true,false,true
+375627,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+375629,62,T.GARANTİ BANKASI A.Ş.,C,1,AMEX,4,false,false,true
+432951,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+432952,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+432953,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+517048,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+517049,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+520097,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+520922,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+520940,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+479662,62,T.GARANTİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+979236,62,T.GARANTİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979205,62,T.GARANTİ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+685800,62,T.GARANTİ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+676827,62,T.GARANTİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+676651,62,T.GARANTİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+676283,62,T.GARANTİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+482490,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+516943,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+514915,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+493845,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492193,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492187,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492186,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+490175,62,T.GARANTİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+676255,62,T.GARANTİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+670606,62,T.GARANTİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+638888,62,T.GARANTİ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+589318,62,T.GARANTİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+558699,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+557023,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+554960,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+554254,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+554253,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+553130,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+549997,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+548935,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+544078,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+543738,62,T.GARANTİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+418342,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+403998,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+535514,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+535279,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+534653,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+533803,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+525382,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+510152,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+489375,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+483602,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+479610,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+473998,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+418345,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+438331,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+540668,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+441075,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+540667,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+537567,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+537548,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,true,false,true
+473957,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+979233,64,T.İŞ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979204,64,T.İŞ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+537475,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+650990,64,T.İŞ BANKASI A.Ş.,C,1,TROY,3,true,false,true
+650987,64,T.İŞ BANKASI A.Ş.,C,1,TROY,3,true,false,true
+650456,64,T.İŞ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+650173,64,T.İŞ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+650092,64,T.İŞ BANKASI A.Ş.,D,2,TROY,3,true,false,true
+650082,64,T.İŞ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+589283,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+559289,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+553058,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+552096,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+545254,64,T.İŞ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+548237,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+543771,64,T.İŞ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+420556,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+441076,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+441077,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,true,false,true
+450803,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+454314,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+454318,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+454358,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+454359,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+454360,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+460925,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+473956,64,T.İŞ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+418344,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+418343,64,T.İŞ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+552645,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+639004,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+650161,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+657366,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+657998,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,true,false,true
+676166,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979215,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,true,false,true
+979241,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979263,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,TROY,3,false,false,true
+603797,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,TROY,3,true,false,true
+554422,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+552659,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+479794,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479795,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+490983,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+491205,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+491206,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492128,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492130,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+492131,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+494314,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+523034,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+525864,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+533913,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+535435,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+535601,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+535602,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,MASTER,2,true,false,true
+537518,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+537833,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+540061,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540062,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540063,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540122,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+540129,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+542117,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+545103,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+549624,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+479620,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479612,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+455359,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+401622,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+404809,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+406281,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+413382,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+414392,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+420342,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+420343,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+434728,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+434742,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,false,false,true
+434839,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,true,false,true
+442106,67,YAPI VE KREDİ BANKASI A.Ş.,D,2,VISA,1,true,false,true
+446212,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+450634,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+477959,67,YAPI VE KREDİ BANKASI A.Ş.,C,1,VISA,1,false,false,true
+437897,92,CITIBANK A.Ş.,C,1,VISA,1,true,false,true
+555087,92,CITIBANK A.Ş.,C,1,MASTER,2,true,false,true
+553493,92,CITIBANK A.Ş.,C,1,MASTER,2,true,false,true
+471509,92,CITIBANK A.Ş.,C,1,VISA,1,true,false,true
+558030,96,TURKISH BANK A.Ş.,D,2,MASTER,2,false,false,true
+552098,96,TURKISH BANK A.Ş.,C,1,MASTER,2,false,false,true
+589288,96,TURKISH BANK A.Ş.,D,2,MASTER,2,false,false,true
+529939,96,TURKISH BANK A.Ş.,C,1,MASTER,2,false,false,true
+677522,96,TURKISH BANK A.Ş.,D,2,TROY,3,false,false,true
+518599,96,TURKISH BANK A.Ş.,C,1,MASTER,2,false,false,true
+419389,96,TURKISH BANK A.Ş.,C,1,VISA,1,false,false,true
+455571,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+554297,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+479632,99,ING BANK A.Ş.,D,2,VISA,1,true,false,true
+550478,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+550074,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+548819,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+547765,99,ING BANK A.Ş.,C,1,MASTER,2,true,false,true
+542967,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+542965,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+542605,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+542029,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+540025,99,ING BANK A.Ş.,C,1,MASTER,2,true,false,true
+540024,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+676402,99,ING BANK A.Ş.,D,2,TROY,3,false,false,true
+979224,99,ING BANK A.Ş.,C,1,TROY,3,false,false,true
+979242,99,ING BANK A.Ş.,D,2,TROY,3,false,false,true
+535270,99,ING BANK A.Ş.,D,2,MASTER,2,false,false,true
+535137,99,ING BANK A.Ş.,D,2,MASTER,2,true,false,true
+532443,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+531401,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+526975,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+526973,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+517946,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+514140,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+603322,99,ING BANK A.Ş.,D,2,TROY,3,false,false,true
+510151,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+490808,99,ING BANK A.Ş.,D,2,VISA,1,false,false,true
+490807,99,ING BANK A.Ş.,C,1,VISA,1,true,false,true
+490806,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+490805,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+479633,99,ING BANK A.Ş.,D,2,VISA,1,false,false,true
+480296,99,ING BANK A.Ş.,C,1,VISA,1,true,false,true
+400684,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+408579,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+408581,99,ING BANK A.Ş.,D,2,VISA,1,false,false,true
+414070,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+420322,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+420323,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+423091,99,ING BANK A.Ş.,D,2,VISA,1,false,false,true
+554570,99,ING BANK A.Ş.,C,1,MASTER,2,false,false,true
+676366,99,ING BANK A.Ş.,D,2,TROY,3,false,false,true
+420324,99,ING BANK A.Ş.,C,1,VISA,1,false,false,true
+671217,103,FİBABANKA A.Ş.,D,2,TROY,3,false,false,true
+979225,103,FİBABANKA A.Ş.,C,1,TROY,3,false,false,true
+603343,103,FİBABANKA A.Ş.,D,2,TROY,3,false,false,true
+559056,103,FİBABANKA A.Ş.,C,1,MASTER,2,true,false,true
+557374,103,FİBABANKA A.Ş.,D,2,MASTER,2,false,false,true
+543624,103,FİBABANKA A.Ş.,C,1,MASTER,2,false,false,true
+527765,103,FİBABANKA A.Ş.,C,1,MASTER,2,false,false,true
+527192,103,FİBABANKA A.Ş.,D,2,MASTER,2,false,false,true
+527149,103,FİBABANKA A.Ş.,D,2,MASTER,2,false,false,true
+522576,103,FİBABANKA A.Ş.,C,1,MASTER,2,false,false,true
+522566,103,FİBABANKA A.Ş.,C,1,MASTER,2,false,false,true
+522075,103,FİBABANKA A.Ş.,C,1,MASTER,2,false,false,true
+517601,103,FİBABANKA A.Ş.,C,1,MASTER,2,false,false,true
+468973,103,FİBABANKA A.Ş.,C,1,VISA,1,false,false,true
+434909,103,FİBABANKA A.Ş.,D,2,VISA,1,false,false,true
+423495,103,FİBABANKA A.Ş.,C,1,VISA,1,false,false,true
+603005,108,TURKLAND BANK A.Ş.,D,2,TROY,3,false,false,true
+979231,108,TURKLAND BANK A.Ş.,C,1,TROY,3,false,false,true
+676429,108,TURKLAND BANK A.Ş.,D,2,TROY,3,false,false,true
+545769,109,ICBC TURKEY BANK A.Ş.,C,1,MASTER,2,false,false,true
+527080,109,ICBC TURKEY BANK A.Ş.,C,1,MASTER,2,false,false,true
+456057,109,ICBC TURKEY BANK A.Ş.,C,1,VISA,1,false,false,true
+521875,109,ICBC TURKEY BANK A.Ş.,C,1,MASTER,2,false,false,true
+514025,109,ICBC TURKEY BANK A.Ş.,C,1,MASTER,2,false,false,true
+445988,109,ICBC TURKEY BANK A.Ş.,D,2,VISA,1,false,false,true
+413972,109,ICBC TURKEY BANK A.Ş.,C,1,VISA,1,false,false,true
+413729,109,ICBC TURKEY BANK A.Ş.,C,1,VISA,1,false,false,true
+979239,109,ICBC TURKEY BANK A.Ş.,C,1,TROY,3,false,false,true
+589416,109,ICBC TURKEY BANK A.Ş.,D,2,MASTER,2,false,false,true
+456059,109,ICBC TURKEY BANK A.Ş.,C,1,VISA,1,false,false,true
+558634,109,ICBC TURKEY BANK A.Ş.,C,1,MASTER,2,true,false,true
+545770,109,ICBC TURKEY BANK A.Ş.,C,1,MASTER,2,false,false,true
+547772,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,true,false,true
+479679,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,true,false,true
+547567,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,true,false,true
+545847,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+545616,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+979203,111,QNB FİNANSBANK A.Ş.,C,1,TROY,3,false,false,true
+677238,111,QNB FİNANSBANK A.Ş.,D,2,TROY,3,false,false,true
+499851,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+499852,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+499853,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+516789,111,QNB FİNANSBANK A.Ş.,D,2,MASTER,2,true,false,true
+516835,111,QNB FİNANSBANK A.Ş.,D,2,MASTER,2,false,false,true
+516843,111,QNB FİNANSBANK A.Ş.,D,2,MASTER,2,false,false,true
+519324,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+521022,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+521836,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+526911,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+529572,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+530818,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+531157,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+545120,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+542404,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,true,false,true
+539957,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+537058,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,false,false,true
+535177,111,QNB FİNANSBANK A.Ş.,D,2,MASTER,2,false,false,true
+414388,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+420092,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+415956,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+415565,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+498749,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+459333,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+422376,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+427311,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,true,false,true
+410147,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+409364,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+431379,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+406386,111,QNB FİNANSBANK A.Ş.,D,2,VISA,1,false,false,true
+403082,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,true,false,true
+402563,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+402278,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+435653,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+439757,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+441007,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+442395,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+499850,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+979202,111,QNB FİNANSBANK A.Ş.,D,2,TROY,3,false,false,true
+601050,111,QNB FİNANSBANK A.Ş.,D,2,TROY,3,false,false,true
+559096,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,true,false,true
+547800,111,QNB FİNANSBANK A.Ş.,C,1,MASTER,2,true,false,true
+402277,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+401072,111,QNB FİNANSBANK A.Ş.,C,1,VISA,1,false,false,true
+556030,123,HSBC BANK A.Ş.,C,1,MASTER,2,true,false,true
+677193,123,HSBC BANK A.Ş.,D,2,TROY,3,true,false,true
+405913,123,HSBC BANK A.Ş.,C,1,VISA,1,true,false,true
+405917,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+405918,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+405919,123,HSBC BANK A.Ş.,D,2,VISA,1,false,false,true
+408969,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+409071,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+422629,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+424909,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+428240,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+496019,123,HSBC BANK A.Ş.,C,1,VISA,1,false,false,true
+510005,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+512651,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+519399,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+525413,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+525795,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+540643,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+542254,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+545183,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+550472,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+550473,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+552143,123,HSBC BANK A.Ş.,C,1,MASTER,2,false,false,true
+979214,123,HSBC BANK A.Ş.,C,1,TROY,3,false,false,true
+556031,123,HSBC BANK A.Ş.,C,1,MASTER,2,true,false,true
+556033,123,HSBC BANK A.Ş.,C,1,MASTER,2,true,false,true
+556034,123,HSBC BANK A.Ş.,C,1,MASTER,2,true,false,true
+405903,123,HSBC BANK A.Ş.,D,2,VISA,1,true,false,true
+556665,123,HSBC BANK A.Ş.,C,1,MASTER,2,true,false,true
+676401,123,HSBC BANK A.Ş.,D,2,TROY,3,false,false,true
+365773,124,ALTERNATİFBANK A.Ş.,C,1,AMEX,4,false,false,true
+365772,124,ALTERNATİFBANK A.Ş.,C,1,AMEX,4,false,false,true
+365771,124,ALTERNATİFBANK A.Ş.,C,1,AMEX,4,false,false,true
+365770,124,ALTERNATİFBANK A.Ş.,C,1,AMEX,4,true,false,true
+979228,124,ALTERNATİFBANK A.Ş.,C,1,TROY,3,false,false,true
+670670,124,ALTERNATİFBANK A.Ş.,D,2,TROY,3,false,false,true
+654997,124,ALTERNATİFBANK A.Ş.,C,1,TROY,3,true,false,true
+558485,124,ALTERNATİFBANK A.Ş.,C,1,MASTER,2,true,false,true
+544836,124,ALTERNATİFBANK A.Ş.,C,1,MASTER,2,false,false,true
+522221,124,ALTERNATİFBANK A.Ş.,C,1,MASTER,2,false,false,true
+516458,124,ALTERNATİFBANK A.Ş.,C,1,MASTER,2,false,false,true
+516308,124,ALTERNATİFBANK A.Ş.,C,1,MASTER,2,false,false,true
+512618,124,ALTERNATİFBANK A.Ş.,C,1,MASTER,2,false,false,true
+466284,124,ALTERNATİFBANK A.Ş.,D,2,VISA,1,false,false,true
+466283,124,ALTERNATİFBANK A.Ş.,C,1,VISA,1,true,false,true
+466282,124,ALTERNATİFBANK A.Ş.,C,1,VISA,1,false,false,true
+466280,124,ALTERNATİFBANK A.Ş.,C,1,VISA,1,false,false,true
+416394,124,ALTERNATİFBANK A.Ş.,C,1,VISA,1,false,false,true
+545863,125,BURGAN BANK A.Ş.,C,1,MASTER,2,false,false,true
+535806,125,BURGAN BANK A.Ş.,D,2,MASTER,2,false,false,true
+491373,125,BURGAN BANK A.Ş.,C,1,VISA,1,false,false,true
+414941,125,BURGAN BANK A.Ş.,D,2,VISA,1,false,false,true
+543943,125,BURGAN BANK A.Ş.,C,1,MASTER,2,false,false,true
+424360,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+979243,134,DENİZBANK A.Ş.,D,2,TROY,3,false,false,true
+979220,134,DENİZBANK A.Ş.,C,1,TROY,3,false,false,true
+677047,134,DENİZBANK A.Ş.,D,2,TROY,3,false,false,true
+670640,134,DENİZBANK A.Ş.,C,1,TROY,3,false,false,true
+670610,134,DENİZBANK A.Ş.,D,2,TROY,3,false,false,true
+601912,134,DENİZBANK A.Ş.,D,2,TROY,3,false,false,true
+558514,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+558460,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+558448,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+558446,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+558443,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+555660,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+555636,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+555574,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+552679,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+549839,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+546764,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+543427,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+543358,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+408625,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+403134,134,DENİZBANK A.Ş.,C,1,VISA,1,true,false,true
+409070,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+424361,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+460345,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+533330,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+533293,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+529876,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+529545,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+523515,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+520303,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+520019,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+517047,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+516914,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+516741,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+516740,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+516731,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+514924,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+512117,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+512017,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+510119,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+510118,134,DENİZBANK A.Ş.,C,1,MASTER,2,true,false,true
+510063,134,DENİZBANK A.Ş.,C,1,MASTER,2,false,false,true
+508129,134,DENİZBANK A.Ş.,D,2,MASTER,2,false,false,true
+489458,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+489456,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+472915,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+472914,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+460347,134,DENİZBANK A.Ş.,C,1,VISA,1,false,false,true
+460346,134,DENİZBANK A.Ş.,D,2,VISA,1,false,false,true
+425846,135,ANADOLUBANK A.Ş.,C,1,VISA,1,false,false,true
+425847,135,ANADOLUBANK A.Ş.,C,1,VISA,1,false,false,true
+425848,135,ANADOLUBANK A.Ş.,C,1,VISA,1,true,false,true
+558593,135,ANADOLUBANK A.Ş.,C,1,MASTER,2,true,false,true
+554301,135,ANADOLUBANK A.Ş.,C,1,MASTER,2,false,false,true
+535881,135,ANADOLUBANK A.Ş.,C,1,MASTER,2,false,false,true
+522241,135,ANADOLUBANK A.Ş.,C,1,MASTER,2,false,false,true
+522240,135,ANADOLUBANK A.Ş.,C,1,MASTER,2,false,false,true
+441341,135,ANADOLUBANK A.Ş.,C,1,VISA,1,false,false,true
+425849,135,ANADOLUBANK A.Ş.,D,2,VISA,1,false,false,true
+979240,135,ANADOLUBANK A.Ş.,D,2,TROY,3,false,false,true
+979252,135,ANADOLUBANK A.Ş.,C,1,TROY,3,false,false,true
+676460,135,ANADOLUBANK A.Ş.,D,2,TROY,3,false,false,true
+517343,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+528246,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+532813,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+534563,143,AKTİF YATIRIM BANKASI A.Ş,C,1,MASTER,2,false,false,true
+534565,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+534567,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+453146,143,AKTİF YATIRIM BANKASI A.Ş,C,1,VISA,1,false,false,true
+453145,143,AKTİF YATIRIM BANKASI A.Ş,C,1,VISA,1,false,false,true
+453148,143,AKTİF YATIRIM BANKASI A.Ş,D,2,VISA,1,false,false,true
+453144,143,AKTİF YATIRIM BANKASI A.Ş,C,1,VISA,1,false,false,true
+535843,143,AKTİF YATIRIM BANKASI A.Ş,C,1,MASTER,2,false,false,true
+504166,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+549539,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+453147,143,AKTİF YATIRIM BANKASI A.Ş,D,2,VISA,1,false,false,true
+515456,143,AKTİF YATIRIM BANKASI A.Ş,C,1,MASTER,2,false,false,true
+453149,143,AKTİF YATIRIM BANKASI A.Ş,D,2,VISA,1,false,false,true
+581877,143,AKTİF YATIRIM BANKASI A.Ş,D,2,MASTER,2,false,false,true
+671121,143,AKTİF YATIRIM BANKASI A.Ş,D,2,TROY,3,false,false,true
+671155,143,AKTİF YATIRIM BANKASI A.Ş,D,2,TROY,3,false,false,true
+979213,143,AKTİF YATIRIM BANKASI A.Ş,D,2,TROY,3,false,false,true
+979246,143,AKTİF YATIRIM BANKASI A.Ş,D,2,TROY,3,false,false,true
+670868,146,ODEABANK A.Ş.,D,2,TROY,3,false,false,true
+526952,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+524677,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+522362,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+522356,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+522347,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+519261,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+516944,146,ODEABANK A.Ş.,D,2,MASTER,2,false,false,true
+469181,146,ODEABANK A.Ş.,C,1,VISA,1,false,false,true
+469180,146,ODEABANK A.Ş.,C,1,VISA,1,false,false,true
+527369,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+979219,146,ODEABANK A.Ş.,C,1,TROY,3,false,false,true
+536255,146,ODEABANK A.Ş.,C,1,MASTER,2,true,false,true
+468797,146,ODEABANK A.Ş.,D,2,VISA,1,false,false,true
+468796,146,ODEABANK A.Ş.,D,2,VISA,1,false,false,true
+468795,146,ODEABANK A.Ş.,C,1,VISA,1,true,false,true
+468794,146,ODEABANK A.Ş.,C,1,VISA,1,true,false,true
+468793,146,ODEABANK A.Ş.,C,1,VISA,1,true,false,true
+468791,146,ODEABANK A.Ş.,C,1,VISA,1,false,false,true
+528064,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+527396,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+527383,146,ODEABANK A.Ş.,C,1,MASTER,2,false,false,true
+474265,150,GOLDEN GLOBAL YATIRIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+547402,150,GOLDEN GLOBAL YATIRIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+536180,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+432285,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+434524,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+434572,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,true,false,true
+463359,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479671,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+534264,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+533973,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+533796,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+511583,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+547234,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+417715,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,true,false,true
+417716,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+423002,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+424935,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+548232,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+432284,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+627510,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979226,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,C,1,TROY,3,false,false,true
+677397,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979227,203,ALBARAKA TÜRK KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+677055,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979267,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,TROY,3,false,false,true
+557370,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+547564,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+539803,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+535748,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+439848,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,VISA,1,true,false,true
+402592,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,true,false,true
+403360,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+431024,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,true,false,true
+439847,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+525312,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+520180,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+518896,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+512595,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+511660,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+483674,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+483673,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+439849,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+402589,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+402590,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+402591,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+527083,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+527327,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+528133,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+979216,205,KUVEYT TÜRK KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+518358,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+512360,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+511783,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+511758,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+498725,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+498724,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+485061,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+479917,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479916,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+479915,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+979218,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+677451,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+606043,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+552610,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+549294,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+400742,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+404952,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+411685,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,true,false,true
+416275,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+424927,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+428462,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+435627,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+435628,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+435629,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,VISA,1,false,false,true
+441206,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+470954,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+521848,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+537719,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+541786,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+528293,206,T. FİNANS KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+519015,206,T. FİNANS KATILIM BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+539134,209,ZİRAAT KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+535248,209,ZİRAAT KATILIM BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+979221,209,ZİRAAT KATILIM BANKASI A.Ş.,C,1,TROY,3,false,false,true
+527749,209,ZİRAAT KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+557844,209,ZİRAAT KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+525339,209,ZİRAAT KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+416283,209,ZİRAAT KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+670586,209,ZİRAAT KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+535355,210,VAKIF KATILIM BANKASI A.Ş.,C,1,MASTER,2,false,false,true
+558215,210,VAKIF KATILIM BANKASI A.Ş.,D,2,MASTER,2,false,false,true
+670544,210,VAKIF KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979230,210,VAKIF KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+979250,210,VAKIF KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+483703,210,VAKIF KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+483704,210,VAKIF KATILIM BANKASI A.Ş.,C,1,VISA,1,false,false,true
+547980,210,VAKIF KATILIM BANKASI A.Ş.,C,1,MASTER,2,true,false,true
+979261,211,TÜRKİYE EMLAK KATILIM BANKASI A.Ş.,D,2,TROY,3,false,false,true
+498597,839,OZAN ELEKTRONİK PARA A.Ş.,D,2,VISA,1,false,false,true
+535805,864,İYZİ ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,C,1,MASTER,2,false,false,true
+534060,870,TT ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+439573,890,LYDİANS ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+439575,890,LYDİANS ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+528825,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,MASTER,2,false,false,true
+520909,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,C,1,MASTER,2,false,false,true
+516742,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,MASTER,2,false,false,true
+515895,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,MASTER,2,false,false,true
+515865,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,C,1,MASTER,2,false,false,true
+512446,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,C,1,MASTER,2,false,false,true
+492192,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,C,1,VISA,1,false,false,true
+476662,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,VISA,1,false,false,true
+404990,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,VISA,1,false,false,true
+474823,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,VISA,1,false,false,true
+539605,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,C,1,MASTER,2,false,false,true
+521584,900,PAYCORE ÖDEME HİZ. TAKAS VE MUTABAKAT SİS. A.Ş.,D,2,MASTER,2,false,false,true
+979248,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,TROY,3,false,false,true
+979257,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,TROY,3,false,false,true
+439562,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,VISA,1,false,false,true
+439563,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,VISA,1,false,false,true
+478592,6001,TÜRK ELEKTRONİK PARA A.Ş.,C,1,VISA,1,false,false,true
+478593,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,VISA,1,false,false,true
+478594,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,VISA,1,false,false,true
+531325,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,MASTER,2,false,false,true
+535616,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,MASTER,2,false,false,true
+538841,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,MASTER,2,false,false,true
+542415,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,MASTER,2,true,false,true
+559964,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,MASTER,2,false,false,true
+650457,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,TROY,3,false,false,true
+979235,6001,TÜRK ELEKTRONİK PARA A.Ş.,D,2,TROY,3,false,false,true
+460959,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+548793,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+539374,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+531389,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+529799,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+460957,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+460958,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+535925,6002,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+536696,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,MASTER,2,false,false,true
+533207,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,MASTER,2,false,false,true
+979278,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,TROY,3,false,false,true
+979277,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,TROY,3,false,false,true
+979259,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,TROY,3,false,false,true
+979254,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,TROY,3,false,false,true
+979249,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,TROY,3,false,false,true
+671200,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,TROY,3,false,false,true
+537608,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,MASTER,2,false,false,true
+434914,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,VISA,1,false,false,true
+434913,6003,POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ,D,2,VISA,1,false,false,true
+979266,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,TROY,3,false,false,true
+473945,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,true,false,true
+478500,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+555518,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+463367,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+460962,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+439748,6004,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+471688,6005,TURKCELL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+434727,6005,TURKCELL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+535434,6005,TURKCELL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.,D,2,MASTER,2,false,false,true
+439683,6006,PALADYUM ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
+979260,6006,PALADYUM ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,TROY,3,false,false,true
+439724,6006,PALADYUM ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.,D,2,VISA,1,false,false,true
