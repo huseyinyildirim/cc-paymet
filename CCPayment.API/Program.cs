@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace CCPayment.Payment
+namespace CCPayment.API
 {
     public class Program
     {

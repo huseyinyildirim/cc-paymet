@@ -4,6 +4,7 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'CCPayment.Payment' " />
   <ItemGroup>
     <ProjectReference Include="..\CCPayment.Business\CCPayment.Business.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>

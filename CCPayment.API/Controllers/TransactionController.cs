@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace CCPayment.Payment.Controllers
+namespace CCPayment.API.Controllers
 {
     [Route("api/[controller]")]
     public class TransactionController : CustomBaseController

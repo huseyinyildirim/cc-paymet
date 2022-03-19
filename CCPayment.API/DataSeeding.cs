@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CCPayment.Payment
+namespace CCPayment.API
 {
     public class BinList
     {

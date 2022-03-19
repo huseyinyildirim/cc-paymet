@@ -3,7 +3,7 @@ using CCPayment.Business.Dtos;
 using CCPayment.Data.Entities;
 using CCPayment.POS.Requests;
 
-namespace CCPayment.Payment.Mapping
+namespace CCPayment.API.Mapping
 {
     public class GeneralMapping : Profile
     {

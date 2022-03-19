@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 
-namespace CCPayment.Payment
+namespace CCPayment.API
 {
     public class Startup
     {
@@ -51,7 +51,7 @@ namespace CCPayment.Payment
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CCPayment.Payment", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CCPayment.API", Version = "v1" });
             });
         }
 
@@ -65,7 +65,7 @@ namespace CCPayment.Payment
                 DataSeeding.Seed(app);
 
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CCPayment.Payment v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CCPayment.API v1"));
             }
 
             app.UseRouting();
