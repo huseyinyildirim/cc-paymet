@@ -19,6 +19,10 @@ namespace CCPayment.Business.Services
             _transactionRepository = transactionRepository;
         }
 
+        public TransactionService()
+        {
+        }
+
         public Response<List<TransactionDto>> GetAll()
         {
             var transactions = _transactionRepository.GetAllTransactions();
